@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Stillwater OK"
-title                    : "Zonghao Huang's Homepage:"
+title                    : "Zonghao Huang / Homepage:"
 title_separator          : "-"
 name                     : &name "Zonghao Huang"
 description              : &description "personal description"
