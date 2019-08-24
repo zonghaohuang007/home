@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "BIO"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student (by thesis) from School of Electrical and Computer Engineering, Oklahoma State University, USA. Previously, I obtained a master degree in Electronics (by coursework) from Nanyang Technological University, Singapore, and got my bachelor degree in Electronic and Information Engineering from Xiamen University, China.
+I am currently a master student (by thesis) from School of Electrical and Computer Engineering, Oklahoma State University, USA. Previously, I obtained a master degree in Electronics (by coursework) from Nanyang Technological University, Singapore, and got my bachelor degree in Electronic and Information Engineering from Xiamen University, China, in 2016 and 2015 respectively.
 
 Research Interest
 ======
