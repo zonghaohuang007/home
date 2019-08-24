@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Stillwater OK"
-title                    : "Zonghao Huang"
+title                    : "Zonghao Huang's Homepage:"
 title_separator          : "-"
 name                     : &name "Zonghao Huang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zonghao Huang"
   avatar           : "profile.png"
-  bio              : "A graduate student from School of Electrical and Computer Engineering, Oklahoma State University, USA"
+  bio              : "I am a graduate student from School of Electrical and Computer Engineering, Oklahoma State University, USA"
   location         : "Stillwater, OK"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "http://zonghaohuang007.github.io"
+  github           : "zonghaohuang007"
   google_plus      :
   keybase          :
   instagram        :
