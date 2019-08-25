@@ -9,12 +9,12 @@ author_profile: true
 
 Teaching
 =======
-* ECEN 4024, Senior Design 2, Fall 2019, School of Electrical and Computer Engineering, Oklahoma State University
+* <b>ECEN 4024, Senior Design 2,</b> Fall 2019, School of Electrical and Computer Engineering, Oklahoma State University
 
 Academic Activities
 =====
-* Reviewer for Conference Manuscript Submissions: 
+* <b>Reviewer for Conference Manuscript Submissions:</b> 
  IEEE INFOCOM 2018, IEEE ICC 2018, IEEE CNS 2018
  
- * IEEE Student Member:
+ * <b>IEEE Student Member:</b>
  Communication Society
