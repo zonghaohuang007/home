@@ -9,9 +9,9 @@ author_profile: true
 
 Soccer
 =====
-I start to be interested in Soccer when I was in 9 years old. I remember the soccer game I watched for the first time was a prelimier league game: Chelsea vs Arsenal but after that I became a fan of Manchester United and a fan of Cristiano Ronaldo.
+I have been crazy in soccer since I was in 9 years old. The soccer game I watched for the first time was a prelimier league game: Chelsea vs Arsenal but after that I became a fan of Manchester United.
 
-Now, I am crazy in soccer, and will never miss any important soccer game.
+Cristiano Ronaldo is my idol, and his success encourages me to keep working hard every day.
 
 Badminton
 =====
