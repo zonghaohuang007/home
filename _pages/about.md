@@ -12,6 +12,6 @@ I am currently a master student (by thesis) from School of Electrical and Comput
 
 I am currently doing my master thesis, and expected to graduate in Decemeber, 2019. I hope I could continue my PhD pursuit in my interested areas after finishing my master.
 
-Research Interest
+Research Interests
 ======
 My work mainly focus on privacy and security issues in data analytics techniques. Especially, I am interested in the theoretical aspects on applying differentialy privacy into machine learning.
