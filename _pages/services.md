@@ -9,9 +9,7 @@ author_profile: true
 
 Teaching
 =======
-* ECEN 4024, Senior Design 2, Fall 2019
-
-School of Electrical and Computer Engineering, Oklahoma State University
+* ECEN 4024, Senior Design 2, Fall 2019, School of Electrical and Computer Engineering, Oklahoma State University
 
 Academic Activities
 =====
