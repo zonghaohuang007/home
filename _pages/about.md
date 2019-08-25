@@ -12,4 +12,4 @@ I am currently a master student (by thesis) from School of Electrical and Comput
 
 My research mainly focuses on privacy and security issues in data analytics techniques. Especially, I am interested in the theoretical aspects on applying differentialy privacy into machine learning.
 
-I am currently doing my master thesis, and expected to graduate in Decemeber, 2019. I hope I could continue my PhD pursuit in my interested areas after finishing my master.
+I am currently doing my master thesis tittled by "Information Privacy and Security in Data Analytics", and expected to graduate in Decemeber, 2019. I hope I could continue my PhD pursuit in my interested areas after finishing my master.
