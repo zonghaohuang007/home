@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Services"
+    url: /Services/    
     
-  #- title: "Portfolio"
-   # url: /portfolio/
+ # - title: ""
+  #  url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Personality"
+    url: /personality/
