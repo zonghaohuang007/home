@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-* <b>"Differential Location Privacy for Crowdsourced Spectrum Sensing"</b><br/> [Zonghao Huang](https://zonghaohuang007.github.io/home//publications/), Yanmin Gong, <i>IEEE Conference on Communications and Network Security (CNS), Las Vegas, USA, October 9-11 (pp. 1-9), 2017.</i> [(pdf)](https://zonghaohuang007.github.io/home/files/paper1.pdf)
+* <b>Differential Location Privacy for Crowdsourced Spectrum Sensing</b><br/> [Zonghao Huang](https://zonghaohuang007.github.io/home//publications/), Yanmin Gong, <i>IEEE Conference on Communications and Network Security (CNS), Las Vegas, USA, October 9-11, 2017.</i> [(pdf)](https://zonghaohuang007.github.io/home/files/paper1.pdf)
 
 * <b>[Zonghao Huang](https://zonghaohuang007.github.io/home//publications/)</b>, Rui Hu, Yuanxiong Guo, Eric Chan-Tin, Yanmin Gong, <b>"DP-ADMM: ADMM-based Distributed Learning with Differential Privacy"</b>, <i> accepted for publication in IEEE Transactions on Information Forensics and Security (TIFS), August, 2019.</i> [(pdf)](https://zonghaohuang007.github.io/home/files/paper2.pdf)
 
