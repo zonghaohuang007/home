@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic Services"
+title: "ACADEMIC SERVICES"
 permalink: /services/
 author_profile: true
 ---
