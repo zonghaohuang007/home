@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-Peer-Reviewed Journal Papers<font size: 14px>
+<font size=1>Peer-Reviewed Journal Papers</font>
 =====
 *  <b>DP-ADMM: ADMM-based Distributed Learning with Differential Privacy</b><br/>[Zonghao Huang](https://zonghaohuang007.github.io/home//publications/), Rui Hu, Yuanxiong Guo, Eric Chan-Tin, Yanmin Gong, <i> accepted for publication in IEEE Transactions on Information Forensics and Security (TIFS), August, 2019.</i> [(pdf)](https://zonghaohuang007.github.io/home/files/paper2.pdf)
 
