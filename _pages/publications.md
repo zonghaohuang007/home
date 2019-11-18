@@ -1,5 +1,6 @@
 ---
 layout: archive
+style="font-size:12px"
 title: "PUBLICATIONS"
 permalink: /publications/
 author_profile: true
@@ -17,6 +18,6 @@ Peer-Reviewed Conference Papers
 
 * <b>Differential Location Privacy for Crowdsourced Spectrum Sensing</b><br/> [Zonghao Huang](https://zonghaohuang007.github.io/home//publications/), Yanmin Gong, <i>IEEE Conference on Communications and Network Security (CNS), Las Vegas, USA, October 9-11, 2017.</i> [(pdf)](https://zonghaohuang007.github.io/home/files/paper1.pdf)
 
-Papers in Progress
+Papers in Progress 
 =====
 * <b>Differentially Private ADMM For Convex Distributed Learning: Improve Accuracy via Multi-Step Approximation</b><br/> [Zonghao Huang](https://zonghaohuang007.github.io/home//publications/), <i>working in progress.</i> [(pdf)](https://zonghaohuang007.github.io/home/files/paper4.pdf)
