@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Personality"
+excerpt: "Personality"
 permalink: /personality/
 author_profile: true
 ---
