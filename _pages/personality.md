@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PERSONALITY"
+title: "Personality"
 permalink: /personality/
 author_profile: true
 ---
