@@ -14,7 +14,7 @@ redirect_from:
 * <b>M.Sc.</b> in Electronics, [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/Pages/home.aspx), 2016
 * <b>B.Eng.</b> in Electronic & Information Engineering, [Xiamen University, China](https://en.xmu.edu.cn/), 2015
 
-Awards and Honors:
+<b>Awards and Honors:</b>
 * Student Travel Grant for IEEE CNS 2017, National Science Foundation and Army Research Office, USA, 2017
 * First-Class Graduate Scholarship of Academic Excellence, Xiamen University, China, 2015
 * Graduate Scholarship of Recreation and Sports Excellence, Xiamen University, China, 2015
