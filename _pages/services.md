@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-<b>Teaching:</b>
+<b>Teaching Experience:</b>
 * <b>ECEN 4024, Senior Design 2, Fall 2019,</b> School of Electrical and Computer Engineering, Oklahoma State University
 
 <b>Academic Activities:</b>
