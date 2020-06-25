@@ -9,11 +9,13 @@ author_profile: true
 {% include base_path %}
 
 <b>Teaching Experience:</b>
-* <b>ECEN 4024, Senior Design 2, Fall 2019,</b> School of Electrical and Computer Engineering, Oklahoma State University
+* <b>ECEN 4024, Senior Design 2, Fall 2019,</b> 
+School of Electrical and Computer Engineering, Oklahoma State University
 
 <b>Academic Activities:</b>
 * <b>Reviewer for Conference Manuscript Submissions:</b> 
  IEEE INFOCOM 2018, IEEE ICC 2018, IEEE CNS 2018
  
- * <b>IEEE Student Member:</b>
- Communication Society
+ * <b>Conference Presentation:</b>
+"Differential Location Privacy for Crowdsourced Spectrum Sensing", IEEE Conference on Communications and Network Security (CNS),
+Las Vegas, NV, USA, October 9-11, 2017
