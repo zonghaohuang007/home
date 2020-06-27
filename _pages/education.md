@@ -3,7 +3,7 @@ layout: archive
 title: "Education"
 excerpt: "Education"
 permalink: /education/
-author_profile: true
+author_profile: false
 redirect_from:
 
 ---
