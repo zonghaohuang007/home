@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Personality"
-excerpt: "Personality"
-permalink: /personality/
+title: "Miscellaneous"
+excerpt: "Miscellaneous"
+permalink: /miscellaneous/
 author_profile: true
 ---
 
