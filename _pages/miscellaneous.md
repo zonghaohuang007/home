@@ -7,7 +7,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Misc:
+Misc:
+======
 * <b>Soccer:</b>
 I have been crazy in soccer since I was 9 years old. The first soccer game I watched was a Prelimier League game: Chelsea vs Arsenal but after that I became a fan of Manchester United. Cristiano Ronaldo is my idol, and his success encourages me to keep working hard every day.
 
