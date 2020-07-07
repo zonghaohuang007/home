@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Services"
 excerpt: "Academic Services"
 permalink: /services/
 author_profile: true
