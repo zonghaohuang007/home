@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV:
-=====
 You can find my CV [here](http://zonghaohuang007.github.io/home/files/CV.pdf).
