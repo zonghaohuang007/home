@@ -1,6 +1,6 @@
 ---
 layout: archive
-tittle: "Services"
+title: "Services"
 excerpt: "Academic Services"
 permalink: /services/
 author_profile: true
