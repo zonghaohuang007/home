@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Stillwater OK"
+locale                   : "Durham NC"
 title                    : "Zonghao Huang / Homepage:"
 title_separator          : "-"
 name                     : &name "Zonghao Huang"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zonghao Huang"
   avatar           : "profile1.jpg"
-  bio              : "I am an XMUer, a Cowboy, and a Theoretical CS beginner with EE background."
+  bio              : "I am an XMUer, a Cowboy, a Blue Devil, and a Theoretical CS beginner with EE background."
   location         : "Stillwater, OK"
   employer         :
   pubmed           : 
