@@ -10,4 +10,4 @@ redirect_from:
 
 My name is Zonghao Huang. I am an incoming Ph.D. student at Department of Computer Science, [Duke University](https://www.duke.edu/). Previously, I received my B.Eng. degree in Electronic & Information Engineering at [Xiamen University](https://en.xmu.edu.cn/), also known as Amoy University.
 
-My previous research mainly focuses on the theoretical aspects on applying differential privacy into ADMM-based distributed machine learning. I am currently interested in the intersection between theoretical computer science and cryptography.
+My previous research mainly focuses on the theoretical aspects on applying differential privacy into ADMM-based distributed machine learning. I am currently interested in the intersection of theoretical computer science, cryptography, algorithms and privacy.
