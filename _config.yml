@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Durham NC"
-title                    : "Zonghao Huang / Homepage:"
+title                    : "Zonghao Huang's Homepage:"
 title_separator          : "-"
 name                     : &name "Zonghao Huang"
 description              : &description "personal description"
