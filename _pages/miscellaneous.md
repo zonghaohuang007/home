@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Misc"
-excerpt: "Miscellaneous"
-permalink: /miscellaneous/
+excerpt: "Misc"
+permalink: /misc/
 author_profile: true
 ---
 {% include base_path %}
