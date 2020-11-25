@@ -8,4 +8,4 @@ author_profile: true
 
 {% include base_path %}
 
-* <b>TECEN 4024: Senior Design 2 </b>, Fall 2019 @ Oklahoma State University, Stillwater.
+* <b>ECEN 4024: Senior Design 2 </b>, Fall 2019 @ Oklahoma State University, Stillwater.
