@@ -10,4 +10,4 @@ redirect_from:
 
 My name is Zonghao Huang. I am currently a Ph.D. student at [Department of Computer Science, Duke University](https://www.cs.duke.edu/), where I am fortunately advised by Prof. [Mike Reiter](https://reitermk.github.io/). Previously, I did my undergraduate study in Electronic & Information Engineering at Amoy University (Xiamen University).
 
-Generally, I am interested in the intersection of theoretical computer science, machine learning, and cryptography. The goal of my research is to design provably secure and robust machine learning models and systems.
+Generally, I am interested in the intersection of theoretical computer science, machine learning, and security & privacy. The goals of my research are: 1) to develop theoretical foundation for secure and robust machine learning systems, and 2) to apply adversarial machine learning to solve security & privacy problems.
