@@ -12,7 +12,9 @@ author_profile: true
   * Coming soon...
 
 * <b>Works @ OSU:</b>
-  * <b>Zonghao Huang</b>, Yanmin Gong, "Differentially Private ADMM For Convex Distributed Learning: Improve Accuracy via Multi-Step Approximation", <i>arXiv preprint, 2020.</i> [(pdf)](https://zonghaohuang007.github.io/home/files/paper4.pdf)
+  * [Differentially Private ADMM For Convex Distributed Learning: Improve Accuracy via Multi-Step Approximation](https://zonghaohuang007.github.io/home/files/paper4.pdf) <br>
+    <b>Zonghao Huang</b>, Yanmin Gong <br>
+    <i>arXiv preprint</i>, 2020.
   
   * <b>Zonghao Huang</b>, Rui Hu, Yuanxiong Guo, Eric Chan-Tin, Yanmin Gong, "DP-ADMM: ADMM-based Distributed Learning with Differential Privacy", <i> IEEE Transactions on Information Forensics and Security (TIFS), 2020.</i> [(pdf)](https://zonghaohuang007.github.io/home/files/paper2.pdf)
 
