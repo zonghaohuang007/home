@@ -17,4 +17,3 @@ Lee Chong Wei.
 Starcraft 2 (Protoss, MMR around 3300) and Warcraft 3. <i>En Taro Artanis! Gan Si Huang Xu-Dong!</i>
 
 * <b>Coca Cola:</b>
-I am looking for a PhD position in Coca Cola. Please contact me if you know one.
