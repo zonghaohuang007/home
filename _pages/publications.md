@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 
-* <b>Publications & Manuscripts @ Duke CS:</b>
+* <b> @ Duke CS:</b>
   * Coming soon...
 
-* <b>Works @ OSU:</b>
+* <b> @ OSU:</b>
   * [Differentially Private ADMM For Convex Distributed Learning: Improve Accuracy via Multi-Step Approximation](https://zonghaohuang007.github.io/home/files/paper4.pdf) <br>
     <b>Zonghao Huang</b>, Yanmin Gong <br>
     Preprinted in <i>arXiv</i>, 2020.
