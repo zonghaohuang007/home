@@ -9,7 +9,9 @@ author_profile: true
 
 
 * <b> @ Duke CS:</b>
-  * Coming soon...
+  * The Impact of Exposed Passwords on Honeyword Efficacy <br>
+    <b>Zonghao Huang</b>, Lujo Bauer, Michael K. Reiter <br>
+    To appear in <i>Proceedings of the 33rd USENIX Security Symposium</i>, August 2024.
 
 * <b> @ OSU:</b>
   * [Differentially Private ADMM For Convex Distributed Learning: Improve Accuracy via Multi-Step Approximation](https://zonghaohuang007.github.io/home/files/paper4.pdf) <br>
