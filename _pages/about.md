@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zonghao Huang. I am currently a Ph.D. student at [Department of Computer Science, Duke University](https://www.cs.duke.edu/), where I am fortunately advised by Prof. [Michael Reiter](https://reitermk.github.io/). Previously, I did my undergraduate study at Amoy University (Xiamen University). 
+My name is Zonghao Huang. I am currently a Ph.D. candidate at [Department of Computer Science, Duke University](https://www.cs.duke.edu/), where I am fortunately advised by Prof. [Michael Reiter](https://reitermk.github.io/). Previously, I did my undergraduate study at Amoy University (Xiamen University). 
