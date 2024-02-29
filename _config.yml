@@ -86,7 +86,7 @@ author:
   location         : "Durham, NC"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    :  "https://scholar.google.com/citations?hl=en&user=U1MDWQcAAAAJ"
   email            :  "firstname[dot]lastname[at]duke[dot]edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
