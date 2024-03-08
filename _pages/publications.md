@@ -13,9 +13,6 @@ author_profile: true
   To appear in <i>Proceedings of the 33rd USENIX Security Symposium</i>, August 2024.
 
 * Before 2020:
-  * Differentially Private ADMM For Convex Distributed Learning: Improve Accuracy via Multi-Step Approximation <br>
-    <b>Zonghao Huang</b>, Yanmin Gong <br>
-    Preprinted in <i>arXiv</i>, 2020.
   
   * DP-ADMM: ADMM-based Distributed Learning with Differential Privacy <br>
     <b>Zonghao Huang</b>, Rui Hu, Yuanxiong Guo, Eric Chan-Tin, Yanmin Gong <br> 
