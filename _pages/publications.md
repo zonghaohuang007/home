@@ -24,8 +24,8 @@ author_profile: true
 
   * Robust Truth Discovery Against Data Poisoning in Mobile Crowdsensing <br>
     <b>Zonghao Huang</b>, Miao Pan, Yanmin Gong <br> 
-    In <i>Proceedings of the 2019 IEEE Global Communications Conference (GLOBECOM)</i>, 2019.
+    In <i>Proceedings of the IEEE Global Communications Conference (GLOBECOM)</i>, December 2019.
 
   * Differential Location Privacy for Crowdsourced Spectrum Sensing <br>
     <b>Zonghao Huang</b>, Yanmin Gong <br>
-    In <i>Proceedings of the 2017 IEEE Conference on Communications and Network Security (CNS)</i>, 2017.
+    In <i>Proceedings of the 5th IEEE Conference on Communications and Network Security (CNS)</i>, October 2017.
