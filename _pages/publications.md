@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 
 
+* A General Framework for Data-Use Auditing of ML Modelsy <br>
+  <b>Zonghao Huang</b>, Neil Gong, Michael K. Reiter <br>
+  To appear in <i>Proceedings of the 31st ACM Conference on Computer and Communications Security</i>, October 2024.
+  
 * The Impact of Exposed Passwords on Honeyword Efficacy <br>
   <b>Zonghao Huang</b>, Lujo Bauer, Michael K. Reiter <br>
   To appear in <i>Proceedings of the 33rd USENIX Security Symposium</i>, August 2024.
