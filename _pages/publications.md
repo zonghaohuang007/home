@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-* A General Framework for Data-Use Auditing of ML Modelsy <br>
+* A General Framework for Data-Use Auditing of ML Models <br>
   <b>Zonghao Huang</b>, Neil Gong, Michael K. Reiter <br>
   To appear in <i>Proceedings of the 31st ACM Conference on Computer and Communications Security</i>, October 2024.
   
