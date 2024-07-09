@@ -14,7 +14,7 @@ author_profile: true
   
 * The impact of exposed passwords on honeyword efficacy <br>
   <b>Zonghao Huang</b>, Lujo Bauer, Michael K. Reiter <br>
-  To appear in <i>Proceedings of the 33rd USENIX Security Symposium</i>, August 2024. \[[code](https://github.com/zonghaohuang007/honeywords-analysis)\]
+  To appear in <i>Proceedings of the 33rd USENIX Security Symposium</i>, August 2024. \[[paper](https://arxiv.org/pdf/2309.10323)\]\[[code](https://github.com/zonghaohuang007/honeywords-analysis)\]
 
 * Before 2020:
   
