@@ -11,7 +11,7 @@ redirect_from:
 My name is Zonghao Huang. I am currently a Ph.D. candidate at [Department of Computer Science, Duke University](https://www.cs.duke.edu/), where I am fortunately advised by Prof. [Michael Reiter](https://reitermk.github.io/). Previously, I did my undergraduate study at Amoy University (Xiamen University). 
 
 
-# Selected Publications
+## Selected Publications
 
 * A general framework for data-use auditing of ML models <br>
   <b>Zonghao Huang</b>, Neil Zhenqiang Gong, Michael K. Reiter <br>
