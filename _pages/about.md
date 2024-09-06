@@ -10,6 +10,8 @@ redirect_from:
 
 My name is Zonghao Huang. I am currently a Ph.D. candidate at [Department of Computer Science, Duke University](https://www.cs.duke.edu/), where I am fortunately advised by Prof. [Michael Reiter](https://reitermk.github.io/). Previously, I did my undergraduate study at Amoy University (Xiamen University). 
 
+My research interests are broadly in the fields of computer security and privacy. Currently, my work focuses on developing data auditing schemes for authentication and machine learning systems.
+
 
 ## Selected Publications
 
