@@ -10,7 +10,7 @@ author_profile: true
 
 * A general framework for data-use auditing of ML models <br>
   <b>Zonghao Huang</b>, Neil Zhenqiang Gong, Michael K. Reiter <br>
-  To appear in <i>Proceedings of the 31st ACM Conference on Computer and Communications Security (CCS)</i>, October 2024. \[[paper](https://arxiv.org/pdf/2407.15100)\]\[[code](https://github.com/zonghaohuang007/ML_data_auditing)\]
+  In <i>Proceedings of the 31st ACM Conference on Computer and Communications Security (CCS)</i>, October 2024. \[[paper](https://arxiv.org/pdf/2407.15100)\]\[[code](https://github.com/zonghaohuang007/ML_data_auditing)\]
   
 * The impact of exposed passwords on honeyword efficacy <br>
   <b>Zonghao Huang</b>, Lujo Bauer, Michael K. Reiter <br>
